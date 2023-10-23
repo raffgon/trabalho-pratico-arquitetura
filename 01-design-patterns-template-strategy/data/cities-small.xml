@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <ID>1</ID>
+    <Nome>Afonso Cláudio</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>2</ID>
+    <Nome>Água Doce do Norte</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>3</ID>
+    <Nome>Águia Branca</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>4</ID>
+    <Nome>Alegre</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>5</ID>
+    <Nome>Alfredo Chaves</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>6</ID>
+    <Nome>Alto Rio Novo</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>7</ID>
+    <Nome>Anchieta</Nome>
+    <Estado>8</Estado>
+  </row>
+  <row>
+    <ID>8</ID>
+    <Nome>Apiacá</Nome>
+    <Estado>8</Estado>
+  </row>
+</root>
+</xml>
