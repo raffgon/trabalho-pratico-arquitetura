@@ -1,3 +1,4 @@
 # trabalho-pratico-arquitetura
-Alunos: Rafael Gonçalves Martins
-        Matheus Borreiro Sanches 
+Alunos: 
++ Rafael Gonçalves Martins
++ Matheus Borreiro Sanches 
